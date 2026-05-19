@@ -1,0 +1,4 @@
+#Filter out according to course instructions
+*.in
+*.out
+*.pyc
